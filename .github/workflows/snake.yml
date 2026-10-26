@@ -22,8 +22,8 @@ jobs:
         with:
           github_user_name: W3yoJAGE
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=5f3b93&color_dots=e6dcff,bba7ff,8c63c9,5f3b93,3f2a66
-            dist/github-contribution-grid-snake-dark.svg?color_snake=fbfbff&color_dots=2a2550,3f3080,5f3b93,8c63c9,bba7ff
+            dist/github-contribution-grid-snake.svg?color_snake=%235f3b93&color_dots=%23e6dcff,%23bba7ff,%238c63c9,%235f3b93,%233f2a66
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%23fbfbff&color_dots=%232a2550,%233f3080,%235f3b93,%238c63c9,%23bba7ff
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
