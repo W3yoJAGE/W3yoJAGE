@@ -22,8 +22,14 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=W3yoJAGE&show_icons=true&theme=transparent&title_color=5f3b93&icon_color=bba7ff&text_color=0e0f2a&border_color=bba7ff&hide_border=false)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=W3yoJAGE&background=FBFBFF&ring=5F3B93&fire=BBA7FF&currStreakLabel=5F3B93&border=BBA7FF)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=W3yoJAGE&show_icons=true&theme=transparent&title_color=bba7ff&icon_color=bba7ff&text_color=fbfbff&border_color=5f3b93&hide_border=false">
+  <img alt="Josue's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=W3yoJAGE&show_icons=true&theme=transparent&title_color=5f3b93&icon_color=5f3b93&text_color=0e0f2a&border_color=bba7ff&hide_border=false">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=W3yoJAGE&background=0E0F2A&ring=BBA7FF&fire=BBA7FF&currStreakLabel=FBFBFF&sideLabels=E6DCFF&dates=C3BCE0&border=5F3B93">
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=W3yoJAGE&background=FBFBFF&ring=5F3B93&fire=5F3B93&currStreakLabel=5F3B93&sideLabels=0E0F2A&border=BBA7FF">
+</picture>
 
 </div>
 
@@ -31,7 +37,10 @@
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=W3yoJAGE&layout=compact&theme=transparent&title_color=5f3b93&text_color=0e0f2a&border_color=bba7ff&hide_border=false)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=W3yoJAGE&layout=compact&theme=transparent&title_color=bba7ff&text_color=fbfbff&border_color=5f3b93&hide_border=false">
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=W3yoJAGE&layout=compact&theme=transparent&title_color=5f3b93&text_color=0e0f2a&border_color=bba7ff&hide_border=false">
+</picture>
 
 </div>
 
