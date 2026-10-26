@@ -1,16 +1,43 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**W3yoJAGE/W3yoJAGE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:e6dcff,50:bba7ff,100:5f3b93&height=180&section=header&text=Josue%20Alejandro&fontSize=38&fontColor=0e0f2a&animation=fadeIn&fontAlignY=38&desc=CS%20Engineering%20Student%20%C2%B7%20QUDOX%20IT%20%C2%B7%20IEEE%20CS%20UDB&descAlignY=58&descSize=16)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### `whoami`
+
+- Computer Science Engineering student — **Universidad Don Bosco**
+- IT at **QUDOX** — internal dashboards, automation & support
+- Vice President of **IEEE Computer Society — UDB Student Branch**
+- Building with JavaScript, TypeScript, C# and Java
+
+### `stack`
+
+![JavaScript](https://img.shields.io/badge/JavaScript-5f3b93?style=for-the-badge&logo=javascript&logoColor=fbfbff&labelColor=0e0f2a)
+![TypeScript](https://img.shields.io/badge/TypeScript-5f3b93?style=for-the-badge&logo=typescript&logoColor=fbfbff&labelColor=0e0f2a)
+![C%23](https://img.shields.io/badge/C%23-5f3b93?style=for-the-badge&logo=csharp&logoColor=fbfbff&labelColor=0e0f2a)
+![Java](https://img.shields.io/badge/Java-5f3b93?style=for-the-badge&logo=openjdk&logoColor=fbfbff&labelColor=0e0f2a)
+
+### `github-stats`
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=W3yoJAGE&show_icons=true&theme=transparent&title_color=5f3b93&icon_color=bba7ff&text_color=0e0f2a&border_color=bba7ff&hide_border=false)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=W3yoJAGE&background=FBFBFF&ring=5F3B93&fire=BBA7FF&currStreakLabel=5F3B93&border=BBA7FF)
+
+</div>
+
+### `top-languages`
+
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=W3yoJAGE&layout=compact&theme=transparent&title_color=5f3b93&text_color=0e0f2a&border_color=bba7ff&hide_border=false)
+
+</div>
+
+### `contribution-activity`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/W3yoJAGE/W3yoJAGE/output/github-contribution-grid-snake-dark.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/W3yoJAGE/W3yoJAGE/output/github-contribution-grid-snake.svg">
+</picture>
