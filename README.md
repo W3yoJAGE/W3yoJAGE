@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:e6dcff,50:bba7ff,100:5f3b93&height=180&section=header&text=Josue%20Alejandro&fontSize=38&fontColor=0e0f2a&animation=fadeIn&fontAlignY=25&desc=CS%20Engineering%20Student%20%C2%B7%20QUDOX%20IT%20%C2%B7%20IEEE%20CS%20UDB&descAlignY=42&descSize=10)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:e6dcff,50:bba7ff,100:5f3b93&height=180&section=header&text=Josue%20Alejandro&fontSize=38&fontColor=0e0f2a&animation=fadeIn&fontAlignY=28&desc=CS%20Engineering%20Student%20%C2%B7%20QUDOX%20IT%20%C2%B7%20IEEE%20CS%20UDB&descAlignY=46&descSize=10)
 
 </div>
 
